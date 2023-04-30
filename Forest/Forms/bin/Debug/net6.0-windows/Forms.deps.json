@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Forms/1.0.0": {
+        "dependencies": {
+          "Forest": "1.0.0"
+        },
+        "runtime": {
+          "Forms.dll": {}
+        }
+      },
+      "Forest/1.0.0": {
+        "runtime": {
+          "Forest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Forest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+C:\Users\UserName\Desktop\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\UserName\Desktop\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\UserName\Desktop\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\UserName\Desktop\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\UserName\Desktop\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.Form1.resources
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\UserName\Desktop\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forest.dll
+C:\Users\UserName\Desktop\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forest.pdb
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\UserName\Desktop\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.exe
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.dll
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forms.pdb
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forest.dll
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\bin\Debug\net6.0-windows\Forest.pdb
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.Form1.resources
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.Properties.Resources.resources
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.dll
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.pdb
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\projZero\Forest\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
