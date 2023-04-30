@@ -1,0 +1,6 @@
+E:\первый курс\second semak\основы программирования\projZero\Forest\Interface\bin\Debug\Interface.dll
+E:\первый курс\second semak\основы программирования\projZero\Forest\Interface\bin\Debug\Interface.pdb
+E:\первый курс\second semak\основы программирования\projZero\Forest\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\projZero\Forest\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\projZero\Forest\Interface\obj\Debug\Interface.dll
+E:\первый курс\second semak\основы программирования\projZero\Forest\Interface\obj\Debug\Interface.pdb
