@@ -6352,23 +6352,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Алексей\\.nuget\\packages\\": {},
+    "C:\\Users\\Администратор.000\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\первый курс\\second semak\\основы программирования\\projZero\\Forest\\ForestTests\\ForestTests.csproj",
+      "projectUniqueName": "C:\\Users\\Администратор.000\\Documents\\GitHub\\Forest\\Forest\\ForestTests\\ForestTests.csproj",
       "projectName": "ForestTests",
-      "projectPath": "E:\\первый курс\\second semak\\основы программирования\\projZero\\Forest\\ForestTests\\ForestTests.csproj",
-      "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
-      "outputPath": "E:\\первый курс\\second semak\\основы программирования\\projZero\\Forest\\ForestTests\\obj\\",
+      "projectPath": "C:\\Users\\Администратор.000\\Documents\\GitHub\\Forest\\Forest\\ForestTests\\ForestTests.csproj",
+      "packagesPath": "C:\\Users\\Администратор.000\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Администратор.000\\Documents\\GitHub\\Forest\\Forest\\ForestTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Администратор.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6377,15 +6377,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\первый курс\\second semak\\основы программирования\\projZero\\Forest\\Forest\\Forest.csproj": {
-              "projectPath": "E:\\первый курс\\second semak\\основы программирования\\projZero\\Forest\\Forest\\Forest.csproj"
+            "C:\\Users\\Администратор.000\\Documents\\GitHub\\Forest\\Forest\\Forest\\Forest.csproj": {
+              "projectPath": "C:\\Users\\Администратор.000\\Documents\\GitHub\\Forest\\Forest\\Forest\\Forest.csproj"
             }
           }
         }
@@ -6433,7 +6432,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
